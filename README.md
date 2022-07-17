@@ -12,3 +12,6 @@ Created using MERN stack
 ### Prerequisites
 - Node.js and npm
 - MongoDB
+
+### Credits
+- NUSMods v2
